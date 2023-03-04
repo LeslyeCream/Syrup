@@ -1,9 +1,11 @@
 # Syrupe
 Sync bookmarks and articles offline with Raindrop and Obsidian on android
 
+![](https://storage.ko-fi.com/cdn/useruploads/display/e92813e3-9187-4821-a98e-07183d4ab20c_img_20230226_125846.png)
+
 ## CONCEPT
 
-If you have used Pocket before you will have noticed that you can save items *without being connected to the Internet*, Pocket will sync your new or archived items the next time a connection is available. So I missed so much that option in Raindrop and now it's finally possible!
+If you have used Pocket before you will have noticed that you can save items *without being connected to the Internet*, Pocket will sync your new or archived items the next time a connection is available. So I missed that option in Raindrop and now it's finally possible!
 
 ## Features:
 
