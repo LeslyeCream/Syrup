@@ -29,15 +29,15 @@ If you have used Pocket before you will have noticed that you can save items *wi
 
 ### Some useful uses could be:
 
-Saving multiple inspirational images from multiple sites in a Raindrop collection like a pinterest board,
+* Saving multiple inspirational images from multiple sites in a Raindrop collection like a pinterest board,
 
-Instantly save multiple related links for university research.
+* Instantly save multiple related links for university research.
 
-Save different content (images, links, videos) from the same site in a quick and organized way in different collections.
+* Save different content (images, links, videos) from the same site in a quick and organized way in different collections..
 
-In a nutshell: any task that requires saving links in batches.
+* Local alternative to Pocket
 
-Local alternative to Pocket
+*In a nutshell: any task that requires saving links in batches*
 
 ### Screenshot
 
