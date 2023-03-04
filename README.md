@@ -23,6 +23,8 @@ If you have used Pocket before you will have noticed that you can save items *wi
 
 * Articles include tags, date and a link to the original web site. If the article does not have a cover image, it is replaced with a generic one for "visual consistency".
 
+* It does not connect directly to the website to download the item so it is considerably more private and should theoretically work even if the site is blocked
+
 * Available as XML File project for Tasker or App (Soon)
 
 * No trackers, no analytics, just fly!
@@ -42,6 +44,16 @@ If you have used Pocket before you will have noticed that you can save items *wi
 ### Screenshot
 
 ![](http://direct.safone.me/2027766/IMG_20230304_105648.png)
+
+### FAQ
+
+**What is the difference compared to saving the link directly using the raindrop app ?**
+
+The process is simpler and shorter using Syrup: copy the link and then tap the option in the notification and you are done.
+
+Using the android share option is significantly longer and not very practical if you have in mind to save a lot of content in a short period of time:
+
+In Chrome for example it would be: open the *menu*, tap *share* (and once *again* if raindrop doesn't appear among the first three options) then *raindrop* and then press *back*. If you have used it before it will appear as a shortcut next to the share option but it is still a process that jumps from one app to another.
 
 ### Roadmap
 
