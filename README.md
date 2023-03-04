@@ -45,6 +45,14 @@ If you have used Pocket before you will have noticed that you can save items *wi
 
 ![](http://direct.safone.me/2027766/IMG_20230304_105648.png)
 
+### Instructions:
+
+If you are already familiar with Tasker simply import the project and run the "SETTINGS" task.
+
+Then paste your Raindrop token and press Check (*this will only be necessary the first time*).
+
+Choose a collection to save bookmarks quickly. **The name must be exactly the same as the collection in Raindrop** (no spaces at the end).
+
 ### FAQ
 
 **What is the difference compared to saving the link directly using the raindrop app ?**
