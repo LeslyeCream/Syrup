@@ -56,3 +56,9 @@ Local alternative to Pocket
 - [ ]  Improve the icon and its name
 
 - [ ]  Import videos history from Libretube to Raindrop
+
+### Note
+
+If you find this little tool useful, please consider buy me a coffee so I can keep improving it and adding new features ᵔᴥᵔ
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W349H97)
