@@ -1,4 +1,4 @@
-# Syrupe
+# Syrup
 Sync bookmarks and articles offline with Raindrop and Obsidian on android
 
 ![](https://storage.ko-fi.com/cdn/useruploads/display/e92813e3-9187-4821-a98e-07183d4ab20c_img_20230226_125846.png)
@@ -38,6 +38,10 @@ Save different content (images, links, videos) from the same site in a quick and
 In a nutshell: any task that requires saving links in batches.
 
 Local alternative to Pocket
+
+### Screenshot
+
+![](http://direct.safone.me/2027766/IMG_20230304_105648.png)
 
 ### Roadmap
 
